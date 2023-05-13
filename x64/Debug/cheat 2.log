@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  cheat 2.cpp
+C:\Users\aleks\source\repos\cheat 2\cheat 2\cheat 2.cpp(188,62): warning C4244: аргумент: преобразование "uintptr_t" в "DWORD", возможна потеря данных
+C:\Users\aleks\source\repos\cheat 2\cheat 2\cheat 2.cpp(211,71): warning C4244: аргумент: преобразование "const uintptr_t" в "DWORD", возможна потеря данных
+  cheat 2.vcxproj -> C:\Users\aleks\source\repos\cheat 2\cheat 2\x64\$Build\build.exe
